@@ -1,0 +1,14 @@
+D:\Projects\C#\TestTask\bin\Debug\EmployeeDB.mdf
+D:\Projects\C#\TestTask\bin\Debug\EmployeeDB_log.ldf
+D:\Projects\C#\TestTask\bin\Debug\TestTask.exe.config
+D:\Projects\C#\TestTask\bin\Debug\TestTask.exe
+D:\Projects\C#\TestTask\bin\Debug\TestTask.pdb
+D:\Projects\C#\TestTask\obj\Debug\TestTask.csproj.AssemblyReference.cache
+D:\Projects\C#\TestTask\obj\Debug\TestTask.csproj.SuggestedBindingRedirects.cache
+D:\Projects\C#\TestTask\obj\Debug\TestTask.AboutBox.resources
+D:\Projects\C#\TestTask\obj\Debug\TestTask.Form1.resources
+D:\Projects\C#\TestTask\obj\Debug\TestTask.Properties.Resources.resources
+D:\Projects\C#\TestTask\obj\Debug\TestTask.csproj.GenerateResource.cache
+D:\Projects\C#\TestTask\obj\Debug\TestTask.csproj.CoreCompileInputs.cache
+D:\Projects\C#\TestTask\obj\Debug\TestTask.exe
+D:\Projects\C#\TestTask\obj\Debug\TestTask.pdb
